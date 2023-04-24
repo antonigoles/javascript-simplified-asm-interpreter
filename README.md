@@ -3,7 +3,7 @@
 <b>Simplified ASM interpreter</b> </h1> 
 
 
-- enchmarking my JS skills
+- benchmarking my JS skills
 
 
 ### Usage
